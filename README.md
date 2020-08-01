@@ -2,7 +2,7 @@
 
 Optimized CSS file and font files for local host.
 
-Available on NPM: https://www.npmjs.com/package/noto-sans-kr
+Available on NPM: https://www.npmjs.com/package/noto-sans-kr-shard
 
 
 ## Font Weight
